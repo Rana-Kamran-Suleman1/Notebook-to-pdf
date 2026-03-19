@@ -1,0 +1,11 @@
+[project]
+name = "notebook-to-pdf"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chatollama>=0.2.13",
+    "langchain>=1.2.13",
+    "ollama>=0.6.1",
+]
